@@ -1,0 +1,14 @@
+C:\Users\Masha\source\repos\kpz_lab3\kpz_lab3\bin\Debug\net8.0\kpz_lab3.exe
+C:\Users\Masha\source\repos\kpz_lab3\kpz_lab3\bin\Debug\net8.0\kpz_lab3.deps.json
+C:\Users\Masha\source\repos\kpz_lab3\kpz_lab3\bin\Debug\net8.0\kpz_lab3.runtimeconfig.json
+C:\Users\Masha\source\repos\kpz_lab3\kpz_lab3\bin\Debug\net8.0\kpz_lab3.dll
+C:\Users\Masha\source\repos\kpz_lab3\kpz_lab3\bin\Debug\net8.0\kpz_lab3.pdb
+C:\Users\Masha\source\repos\kpz_lab3\kpz_lab3\obj\Debug\net8.0\kpz_lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masha\source\repos\kpz_lab3\kpz_lab3\obj\Debug\net8.0\kpz_lab3.AssemblyInfoInputs.cache
+C:\Users\Masha\source\repos\kpz_lab3\kpz_lab3\obj\Debug\net8.0\kpz_lab3.AssemblyInfo.cs
+C:\Users\Masha\source\repos\kpz_lab3\kpz_lab3\obj\Debug\net8.0\kpz_lab3.csproj.CoreCompileInputs.cache
+C:\Users\Masha\source\repos\kpz_lab3\kpz_lab3\obj\Debug\net8.0\kpz_lab3.dll
+C:\Users\Masha\source\repos\kpz_lab3\kpz_lab3\obj\Debug\net8.0\refint\kpz_lab3.dll
+C:\Users\Masha\source\repos\kpz_lab3\kpz_lab3\obj\Debug\net8.0\kpz_lab3.pdb
+C:\Users\Masha\source\repos\kpz_lab3\kpz_lab3\obj\Debug\net8.0\kpz_lab3.genruntimeconfig.cache
+C:\Users\Masha\source\repos\kpz_lab3\kpz_lab3\obj\Debug\net8.0\ref\kpz_lab3.dll
